@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/gauge">
+        <file>gauge.qml</file>
+        <file>gauge2.qml</file>
+        <file>TachometerStyle.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>suzuki-gsxr-1000-2009-vue-arriere.svg</file>
+        <file>suzuki-gsxr-1000-2009-vue-arriere-rougeV2.jpg</file>
+    </qresource>
+</RCC>

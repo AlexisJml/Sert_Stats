@@ -1,0 +1,32 @@
+# Build and output folders
+build/
+bin/
+
+# Qt generated files
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# User-specific project files
+*.pro.user*
+*.pro.user.*
+*.pro.user.*
+*.pro.user.*
+
+# Compiled object files
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.exe
+
+# Backup and temporary files
+*.bak
+*.autosave
+*~
+\#*\#
+.#*
+
+# IDE-specific files
+*.creator.*
